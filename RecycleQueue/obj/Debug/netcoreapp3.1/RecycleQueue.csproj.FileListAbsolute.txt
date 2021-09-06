@@ -1,0 +1,13 @@
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\bin\Debug\netcoreapp3.1\RecycleQueue.exe
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\bin\Debug\netcoreapp3.1\RecycleQueue.deps.json
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\bin\Debug\netcoreapp3.1\RecycleQueue.runtimeconfig.json
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\bin\Debug\netcoreapp3.1\RecycleQueue.runtimeconfig.dev.json
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\bin\Debug\netcoreapp3.1\RecycleQueue.dll
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\bin\Debug\netcoreapp3.1\RecycleQueue.pdb
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\obj\Debug\netcoreapp3.1\RecycleQueue.csprojAssemblyReference.cache
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\obj\Debug\netcoreapp3.1\RecycleQueue.AssemblyInfoInputs.cache
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\obj\Debug\netcoreapp3.1\RecycleQueue.AssemblyInfo.cs
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\obj\Debug\netcoreapp3.1\RecycleQueue.csproj.CoreCompileInputs.cache
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\obj\Debug\netcoreapp3.1\RecycleQueue.dll
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\obj\Debug\netcoreapp3.1\RecycleQueue.pdb
+C:\Users\Ckan\source\github.anian\DataStructure\RecycleQueue\obj\Debug\netcoreapp3.1\RecycleQueue.genruntimeconfig.cache
